@@ -5,12 +5,6 @@ This is a React.js project replicating a mobile app design from [Adobe XD](https
 
 ---
 
-## 🔗 Links
-
-- **Live Site**: [View Here](educase-india-1cfl38dqu-mrigank118s-projects.vercel.app)
-
----
-
 ## 🛠️ Tech Stack
 
 - React.js
