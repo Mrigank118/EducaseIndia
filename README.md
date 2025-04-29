@@ -1,6 +1,3 @@
-Here’s a **shorter, clean version** of the README you can use:
-
----
 
 # 📱 Mobile App UI Clone
 
@@ -10,8 +7,7 @@ This is a React.js project replicating a mobile app design from [Adobe XD](https
 
 ## 🔗 Links
 
-- **Live Site**: [View Here](https://your-deployed-app-link.vercel.app)
-- **GitHub Repo**: [View Code](https://github.com/your-username/your-repo-name)
+- **Live Site**: [View Here](educase-india-1cfl38dqu-mrigank118s-projects.vercel.app)
 
 ---
 
@@ -19,7 +15,6 @@ This is a React.js project replicating a mobile app design from [Adobe XD](https
 
 - React.js
 - React Router
-- Tailwind CSS
 - Vercel (Deployment)
 
 ---
@@ -27,8 +22,8 @@ This is a React.js project replicating a mobile app design from [Adobe XD](https
 ## 📂 Project Setup
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/your-username/EducaseIndia.git
+cd EducaseIndia
 npm install
 npm run dev
 ```
@@ -39,6 +34,6 @@ npm run dev
 
 - Pixel-perfect responsive design
 - Smooth page navigation
-- Clean and modular code
+- Clean and modular codeour-repo-name
 
 ---
